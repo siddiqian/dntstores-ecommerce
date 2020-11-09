@@ -1,6 +1,6 @@
 import React from 'react';
 import './styles/App.css';
-import { BrowserRouter, HashRouter, Route } from 'react-router-dom'
+import { BrowserRouter, Route } from 'react-router-dom'
 import HomeScreen from './screens/HomeScreen'
 import CartScreen from './screens/CartScreen';
 import LoginScreen from './screens/LoginScreen';
