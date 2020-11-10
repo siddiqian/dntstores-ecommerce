@@ -31,7 +31,7 @@ Get yourself registered and use those credentials to login as a user. But you ca
 
 # Site Preview
 ## Shop
-![picture alt](https://github.com/siddiqian/dntstores-ecommerce/blob/master/frontend/public/Logo1.jpg "Title is optional")
+![picture alt](https://github.com/siddiqian/dntstores-ecommerce/blob/master/previews/Shop.gif "Title is optional")
 ## Cart
 
 ## Shopping Steps
