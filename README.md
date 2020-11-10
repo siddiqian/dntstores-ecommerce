@@ -71,7 +71,8 @@ All above values have some default values in config.js folder in backend folder.
   * npm start
  and this will open a new tab in the active browser.
  ## NOTE: 
- There are too many "consol logs" for debugging purposes. I have left them intentionally so as to help in future modifications. You can remove them all if you wish.
+ * There are too many "consol logs" for debugging purposes. I have left them intentionally so as to help in future modifications. You can remove them all if you wish.
+ * Some buttons and functionaities are disabled, they are just there for display purposes.
 # Heroku Build
 * Go to frontend and run this command "npm run build".
 * Go to backend/server.js and uncomment all comments.
