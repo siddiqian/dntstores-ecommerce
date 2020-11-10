@@ -1,13 +1,10 @@
 import express from 'express'
-import data from './data.js'
 import mongoose from 'mongoose';
-import dotenv from 'dotenv';
 import config from './config.js'
 import userRouter from './routes/userRouter.js'
 import productRouter from './routes/productRouter.js'
 import orderRouter from './routes/orderRouter.js'
 import bodyParser from 'body-parser'
-import productModel from './models/productModels.js';
 import path from 'path';
 const __dirname = path.resolve();
 const publicDir = path.join(__dirname, 'public')
