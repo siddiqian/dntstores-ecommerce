@@ -31,14 +31,31 @@ Get yourself registered and use those credentials to login as a user. But you ca
 
 # Site Preview
 ## Shop
-![picture alt](https://github.com/siddiqian/dntstores-ecommerce/blob/master/previews/Shop.gif "Title is optional")
+![Shop Preview](https://github.com/siddiqian/dntstores-ecommerce/blob/master/previews/Shop.gif)
 ## Cart
+![Shop Preview](https://github.com/siddiqian/dntstores-ecommerce/blob/master/previews/Cart%201.gif)
 
 ## Shopping Steps
+![Shop Preview](https://github.com/siddiqian/dntstores-ecommerce/blob/master/previews/Shopping%20Steps.gif)
 
 ## User Account
+### Full Screen
+
+![Shop Preview](https://github.com/siddiqian/dntstores-ecommerce/blob/master/previews/User%20Account%20-%20%20Full%20Screen.gif)
+### Mobile Screen
+
+![Shop Preview](https://github.com/siddiqian/dntstores-ecommerce/blob/master/previews/User%20Account%20-%20Mobile%20Screen.gif)
 
 ## Admin Account
+### Full Screen
+
+![Shop Preview](https://github.com/siddiqian/dntstores-ecommerce/blob/master/previews/Admin%20Account%20-%20Full%20Screen.gif)
+### Mobile Screen
+
+![Shop Preview](https://github.com/siddiqian/dntstores-ecommerce/blob/master/previews/Admin%20Account%20-%20Mobile%20Screen.gif)
+
+## Remove from Cart and Qty Adjustment on Finalize Order
+![Shop Preview](https://github.com/siddiqian/dntstores-ecommerce/blob/master/previews/Remove%20from%20Cart%20and%20Qty%20Adjustment.gif)
 
 # How to Use the Code
 * First of all you have to decide 
