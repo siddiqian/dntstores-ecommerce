@@ -74,3 +74,6 @@ All above values have some default values in config.js folder in backend folder.
 * Go to frontend and run this command "npm run build".
 * Go to backend/server.js and uncomment all comments.
 * Then follow the standard procedure of deploying a node js app to heroku. 
+# Contact Me
+I am more than glad if you contact me in case of any query
+developer.siddiqian@gmail.com
