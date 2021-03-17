@@ -15,7 +15,7 @@ This is a react js MERN stack ecommerce webapp with the name of DnT
 * Shoppiing Steps Wizard
 # Demo
 
-https://dntstores.herokuapp.com/
+https://dnt-ecommerce.herokuapp.com/
 
 ## User Credentials
 Here are credentials of a sample user.
